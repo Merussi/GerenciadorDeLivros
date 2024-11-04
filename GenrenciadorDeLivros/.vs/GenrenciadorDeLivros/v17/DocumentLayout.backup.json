@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SDS_HP\\source\\repos\\GenrenciadorDeLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32583979-5A5E-4FEF-871E-783C356132F2}|GenrenciadorDeLivros.csproj|c:\\users\\sds_hp\\source\\repos\\genrenciadordelivros\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32583979-5A5E-4FEF-871E-783C356132F2}|GenrenciadorDeLivros.csproj|solutionrelative:controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32583979-5A5E-4FEF-871E-783C356132F2}|GerenciadorDeLivros.csproj|c:\\users\\sds_hp\\source\\repos\\genrenciadordelivros\\gerenciadordelivros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32583979-5A5E-4FEF-871E-783C356132F2}|GerenciadorDeLivros.csproj|solutionrelative:gerenciadordelivros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32583979-5A5E-4FEF-871E-783C356132F2}|GenrenciadorDeLivros.csproj|c:\\users\\sds_hp\\source\\repos\\genrenciadordelivros\\entities\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32583979-5A5E-4FEF-871E-783C356132F2}|GenrenciadorDeLivros.csproj|solutionrelative:entities\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\SDS_HP\\source\\repos\\GenrenciadorDeLivros\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\SDS_HP\\source\\repos\\GenrenciadorDeLivros\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Controllers\\LivroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:51:34.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livros.cs",
+              "DocumentMoniker": "C:\\Users\\SDS_HP\\source\\repos\\GenrenciadorDeLivros\\Entities\\Livros.cs",
+              "RelativeDocumentMoniker": "Entities\\Livros.cs",
+              "ToolTip": "C:\\Users\\SDS_HP\\source\\repos\\GenrenciadorDeLivros\\Entities\\Livros.cs",
+              "RelativeToolTip": "Entities\\Livros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:30:03.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenciadorDeLivros.csproj",
+              "DocumentMoniker": "C:\\Users\\SDS_HP\\source\\repos\\GenrenciadorDeLivros\\GerenciadorDeLivros.csproj",
+              "RelativeDocumentMoniker": "GerenciadorDeLivros.csproj",
+              "ToolTip": "C:\\Users\\SDS_HP\\source\\repos\\GenrenciadorDeLivros\\GerenciadorDeLivros.csproj",
+              "RelativeToolTip": "GerenciadorDeLivros.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T17:29:30.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
